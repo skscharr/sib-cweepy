@@ -1,7 +1,7 @@
 Boston Startup School exercise "Cweepy"
 =========
 
-# Exercise
+## Exercise
 
 ### Step 1
 Add an event listener for the button 
