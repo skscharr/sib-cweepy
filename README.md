@@ -17,5 +17,6 @@ and a `<a class='button'>Post</a>`
 Add a 'cweep' to the list when the form is submitted
 
 ## References
-jQuery docs: http://api.jquery.com/
-MDN: https://developer.mozilla.org/en-US/docs/JavaScript
+
+- jQuery docs: http://api.jquery.com/
+- MDN: https://developer.mozilla.org/en-US/docs/JavaScript
