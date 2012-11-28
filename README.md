@@ -15,3 +15,7 @@ and a `<a class='button'>Post</a>`
 
 ### Step 3
 Add a 'cweep' to the list when the form is submitted
+
+## References
+jQuery docs: http://api.jquery.com/
+MDN: https://developer.mozilla.org/en-US/docs/JavaScript
