@@ -16,6 +16,9 @@ and a `<a class='button'>Post</a>`
 ### Step 3
 Add a 'cweep' to the list when the form is submitted
 
+### Step 4
+Remove the form
+
 ## References
 
 - jQuery docs: http://api.jquery.com/

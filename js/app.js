@@ -13,6 +13,8 @@ $(document).ready(function () {
      and a <a class='button'>Post'</a>
 
   3. Add a 'cweep' to the list when the form is submitted
+
+  4. Remove the form
    
   **/
 
