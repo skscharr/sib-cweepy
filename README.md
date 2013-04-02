@@ -1,10 +1,10 @@
-Boston Startup School exercise "Cweepy"
+Startup Institute Boston exercise "Cweepy"
 =========
 
 ## Exercise
 
 ### Step 1
-Add an event listener for the button 
+Add an event listener for the button
 
 ### Step 2
 render a form inside the `.header` from that event.
@@ -18,6 +18,9 @@ Add a 'cweep' to the list when the form is submitted
 
 ### Step 4
 Remove the form
+
+### Step 5
+Refactor
 
 ## References
 
