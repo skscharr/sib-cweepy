@@ -1,6 +1,5 @@
 // Start the application when the dom ready event has fired
 $(document).ready(function () {
-
   /**
 
   1. Add an event listener for the button
@@ -19,5 +18,20 @@ $(document).ready(function () {
   5. Refactor
 
   **/
+  
+  $('.add-cweep').on('click', function() {
+    $('.add-cweep-form').addClass('show');
+  })
+
+  $('.button').on('click', function(){
+    var message, li;
+    message = $('.message').val();
+    li = $('li:first-child').clone();
+    li.find('.message').text(message);
+    
+    li.prependTo('.cweep-list');
+    $('.add-cweep-form').removeClass('show');
+    $('.message').val('');
+  })
 
 });
